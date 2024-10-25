@@ -12,6 +12,8 @@ console.log(score);
 
 let a = 3;
 
+let indexTest = 8;
+
 for (let i = 0; i < 10; ++i)
 {
     a = 1;
