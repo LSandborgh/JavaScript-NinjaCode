@@ -1,5 +1,5 @@
 let age = 25;
-let year = 2918
+let year = 2918;
 console.log(age, year);
 
 //Const variable that can't be changed after being initialized;
@@ -11,6 +11,12 @@ var score = 75;
 console.log(score);
 
 let a = 3;
+
+let b = 5;
+
+let c = 7;
+
+let d = 9;
 
 let indexTest = 8;
 indexTest = 5;
