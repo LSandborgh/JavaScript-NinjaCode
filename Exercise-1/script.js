@@ -9,3 +9,11 @@ console.log(test);
 //Old way of creating variables
 var score = 75;
 console.log(score);
+
+let a = 2;
+
+for (let i = 0; i < 10; ++i)
+{
+    a = 1;
+    console.log(a);
+}
