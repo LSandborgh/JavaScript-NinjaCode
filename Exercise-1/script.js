@@ -10,7 +10,9 @@ console.log(test);
 var score = 75;
 console.log(score);
 
-let a = 2;
+let a = 3;
+
+let indexTest = 5;
 
 for (let i = 0; i < 10; ++i)
 {
