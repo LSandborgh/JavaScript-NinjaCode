@@ -13,6 +13,7 @@ console.log(score);
 let a = 3;
 
 let indexTest = 8;
+indexTest = 5;
 
 for (let i = 0; i < 10; ++i)
 {
